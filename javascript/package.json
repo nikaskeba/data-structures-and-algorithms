@@ -18,5 +18,9 @@
   "homepage": "https://github.com/your-username/your-repo-name#readme",
   "devDependencies": {
     "jest": "^27.0.6"
-  }
+  },
+  "scripts": {
+    "test": "jest",
+    "get-challenge": "./get-challenge.sh"
+}
 }
